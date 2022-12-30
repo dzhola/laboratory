@@ -1,0 +1,20 @@
+D:\Універ\Laba3-Calculator\Laba3-Calculator\bin\Debug\Laba3-Calculator.exe.config
+D:\Універ\Laba3-Calculator\Laba3-Calculator\bin\Debug\Laba3-Calculator.exe
+D:\Універ\Laba3-Calculator\Laba3-Calculator\bin\Debug\Laba3-Calculator.pdb
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.csproj.AssemblyReference.cache
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3_Calculator.Form1.resources
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3_Calculator.Properties.Resources.resources
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.csproj.GenerateResource.cache
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.csproj.CoreCompileInputs.cache
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.exe
+D:\Універ\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.pdb
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\bin\Debug\Laba3-Calculator.exe.config
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\bin\Debug\Laba3-Calculator.exe
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\bin\Debug\Laba3-Calculator.pdb
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.csproj.AssemblyReference.cache
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3_Calculator.Form1.resources
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3_Calculator.Properties.Resources.resources
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.csproj.GenerateResource.cache
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.csproj.CoreCompileInputs.cache
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.exe
+D:\Універ\3й курс\С#\lab\Laba3-Calculator\Laba3-Calculator\obj\Debug\Laba3-Calculator.pdb
